@@ -22,6 +22,7 @@ public class Main {
 class Cat {
     private String name;
     private int age;
+    private int weight;
 
     public Cat(String name, int age) {
         this.name = name;
