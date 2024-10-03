@@ -25,6 +25,7 @@ class Cat {
     private int weight;
     private int ves;
     private int ves1;
+    private int ves3;
 
     public Cat(String name, int age) {
         this.name = name;
